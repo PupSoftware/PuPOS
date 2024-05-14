@@ -2,7 +2,7 @@
 
 # Development 
 
-PuPOS is currently under avtive development, report any bug in the issuez page.
+PuPOS is currently under avtive development, report any bug in the issues page.
 
 # Getting Started 
 
